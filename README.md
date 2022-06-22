@@ -1,5 +1,10 @@
 # Temporal series analysis via Bayesian Inference: Bayesian Switchpoint Analysis
+
 Here I share the code I developed for my Physics Bachelor Thesis at the University of Zaragoza.
+
+```
+Buetas, M. (2022) Analysis of temporal series through Bayesian Inference. University of Zaragoza.
+```
 
 ## An introduction to BSA
 
@@ -33,6 +38,10 @@ Author: Marta Buetas Arcas
 # Análisis de series temporales via Inferencia Bayesiana: Bayesian Switchpoint Analysis
 
 Os comparto el código que desarrollé para mi Trabajo de Fin de Grado del Grado en Física de la Universidad de Zaragoza. 
+
+```
+Buetas, M. (2022) Análisis de series temporales vía inferencia Bayesiana. Universidad de Zaragoza.
+```
 
 ## Introducción de la técnica
 
