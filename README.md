@@ -56,6 +56,6 @@ Aquí una breve explicación del contenido de cada Notebook:
  
  - "CoalMiningDisasters": He reproducido un ejemplo clásico buscando un switchpoint en el número de accidentes anuales en las minas de Reino Unido entre 1851 y 1962. Se encuentran correlaciones en los resultados con fuentes externas a los datos. Los datos, disponibles dentro de la carpeta `data/mining.csv`, han sido obtenidos del artículo [Hierarchical Bayesian Analysis of Changepoint Problems](https://www.jstor.org/stable/2347570).
  
- - "STEPS": Durante el proceso de este trabajo tuve un pequeño accidente en el pie que provocó cambios en mi comportamiento. A partir de los datos de los pasos diarios de mi reloj inteligente, encuentro los instantes en los que estos cambios ocurren, consistentes con lo observado en la realidad. The data is available in `data/steps.csv`.
+ - "STEPS": Durante el proceso de este trabajo tuve un pequeño accidente en el pie que provocó cambios en mi comportamiento. A partir de los datos de los pasos diarios de mi reloj inteligente, encuentro los instantes en los que estos cambios ocurren, consistentes con lo observado en la realidad. Los datos están disponibles en `data/steps.csv`.
 
 Autora: Marta Buetas Arcas
